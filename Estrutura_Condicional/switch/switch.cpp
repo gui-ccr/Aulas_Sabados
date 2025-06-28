@@ -14,7 +14,8 @@ int main() {
     std::cin >> opcao; // Lê o número que o usuário digitou e armazena na variável 'opcao'.
 
     // A estrutura switch começa aqui. Ela vai analisar o valor que está dentro da variável 'opcao'.
-    switch (opcao) {
+    switch (opcao) 
+    {
         // 'case 1:' é como perguntar "A variável 'opcao' tem o valor 1?".
         case 1:
             // Se a resposta for sim, o código abaixo é executado.
