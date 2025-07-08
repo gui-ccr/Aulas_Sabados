@@ -1,4 +1,4 @@
-# 📚 Repositório de Estudos - [Nome da Disciplina ou Curso]
+# 📚 Repositório de Estudos - [Algoritmo em C++]
 
 Olá, pessoal! 🚀
 
