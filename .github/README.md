@@ -1,51 +1,58 @@
-# 📚 Repositório de Estudos - [Algoritmo em C++]
+# 🚀 Repositório de Estudos em C++
 
-Olá, pessoal! 🚀
+Bem-vindos ao nosso espaço de aprendizado colaborativo! 🚀
 
-Este repositório foi criado como um material de apoio para nossos estudos na disciplina de **[Algoritmo]**. A ideia é centralizar códigos, exemplos e exercícios para que todos possamos consultar, revisar e reforçar o aprendizado.
+Este repositório é o ponto central para nossos estudos de **Algoritmos e Estrutura de Dados com C++**. A nossa missão é simples: aprender juntos, praticando, revisando o código uns dos outros e construindo uma base de conhecimento sólida e compartilhada.
 
-Todos os códigos aqui presentes estão comentados linha a linha para facilitar o entendimento do que cada parte do programa faz.
+Todos os códigos de exemplo são comentados para facilitar a compreensão, e os exercícios são o nosso principal campo de batalha para aplicar o que aprendemos.
+
+## 🌟 Nossa Equipe
+
+Este repositório é mantido e construído por um time de estudantes dedicados. Conheça nossos contribuidores:
+
+| Foto de Perfil | Nome (Clique para visitar) | Responsabilidade |
+|:---:|---|---|
+| <img src="https://github.com/gui-ccr.png" width="100" alt="Foto do Guilherme" style="border-radius: 50%;"> | [**Guilherme (gui-ccr)**](https://github.com/gui-ccr) | Organizador e Revisor |
+| <img src="https://github.com/Jh-henrique.png" width="100" alt="Foto do João Henrique" style="border-radius: 50%;"> | [**Jhoan Henrique (Jh-henrique)**](https://github.com/Jh-henrique) | Contribuidor |
+| <img src="https://github.com/Milena20031409.png" width="100" alt="Foto da Milena" style="border-radius: 50%;"> | [**Milena (Milena20031409)**](https://github.com/Milena20031409) | Contribuidora |
+## 🎯 Como Funcionamos
+
+Nosso fluxo de estudos é baseado em desafios e colaboração:
+1.  **Proposta de Desafios**: Periodicamente, novos exercícios são propostos e disponibilizados nos arquivos de exercícios.
+2.  **Resolução**: Os contribuidores criam `branches` para desenvolver suas soluções e as adicionam na pasta `/atividades`.
+3.  **Revisão e Aprendizado**: Uma vez que uma solução é enviada via `Pull Request`, o código é revisado por todos. Este é o momento de dar feedback, sugerir melhorias e aprender com as diferentes abordagens de cada um.
+4.  **Consolidação**: Após a revisão, o código é integrado ao repositório principal, servindo como material de consulta para todos.
 
 ## 🗂️ Estrutura do Repositório
 
-O repositório está organizado nas seguintes pastas, cada uma com um foco específico:
+Para manter tudo organizado, dividimos o conteúdo nas seguintes pastas:
 
-* **/Estrutura_Condicional**: Códigos sobre estruturas de decisão como `if/else` e `switch/case`.
-* **/Estruturas_repeticao**: Exemplos de laços de repetição como `for`, `while` e `do/while`.
-* **/Listas**: Implementações e exemplos de uso de listas e vetores.
-* **/POO**: Conceitos de Programação Orientada a Objetos (Classes, Objetos, Herança, etc.).
-* **/funcao**: Exemplos de criação e utilização de funções.
-* **/atividades**: Resoluções das atividades propostas em aula.
-* **/exemplos01**: Códigos de exemplos variados para fixação de conteúdo.
-* **/leitura_codigo**: Exercícios focados na interpretação e entendimento de códigos já prontos.
-* **exercicios.pdf**: Lista de exercícios para praticar.
+* `/Fundamentos`: Códigos com os conceitos mais básicos da linguagem C++.
+* `/Estrutura_Condicional`: Exemplos de estruturas de decisão como `if/else` e `switch/case`.
+* `/Estruturas_repeticao`: Exemplos de laços como `for`, `while` e `do/while`.
+* `/Listas-Arrays`: Uso de `arrays` e `vectors` para armazenar coleções de dados.
+* `/funcao`: Criação e uso de funções para modularizar o código.
+* `/POO`: Conceitos de Programação Orientada a Objetos, como Classes e Objetos.
+* `/leitura_codigo`: Exercícios focados na interpretação de códigos prontos.
+* `_exercicios`: Os arquivos PDF com as listas de desafios a serem resolvidos.
+* **`/atividades`**: **(A mais importante!)** Aqui ficam as resoluções dos exercícios propostos, enviadas pelos contribuidores.
 
-## 💻 Como Utilizar
+## 💻 Como Utilizar e Contribuir
 
-Você pode usar este material de duas formas:
+**Para consultar:**
+Sinta-se à vontade para navegar pelas pastas e explorar os códigos online.
 
-1.  **Navegando Online:** Simplesmente explore as pastas e os arquivos aqui no GitHub.
-2.  **Clonando o Repositório:** Para ter os arquivos na sua máquina e poder compilar e rodar os códigos, utilize o comando abaixo no seu terminal:
-    ```bash
-    git clone [https://github.com/gui-ccr/up.git](https://github.com/gui-ccr/up.git)
-    ```
-    Lembre-se de ter um compilador C++ (como o g++ ou o MinGW no Windows) instalado e configurado no seu ambiente.
-
-## 🤝 Como Contribuir
-
-A contribuição de todos é muito bem-vinda! Se você tiver um código de exemplo legal, uma resolução de exercício diferente ou encontrar algum erro, sinta-se à vontade para adicionar.
-
-Para contribuir, siga o fluxo padrão do GitHub:
-
+**Para contribuir com soluções:**
 1.  **Faça um Fork** deste repositório.
-2.  **Crie uma nova Branch** para sua modificação (`git checkout -b minha-contribuicao`).
-3.  **Faça o Commit** das suas alterações (`git commit -m 'Adiciona novo exemplo de POO'`).
-4.  **Faça o Push** para a sua branch (`git push origin minha-contribuicao`).
-5.  **Abra um Pull Request** para que eu possa revisar e adicionar sua contribuição ao repositório principal.
+2.  **Crie uma nova Branch** para sua atividade (`git checkout -b nome-da-sua-feature`).
+3.  **Faça o Commit** das suas alterações (`git commit -m 'Resolve exercício X da lista Y'`).
+4.  **Faça o Push** para a sua branch (`git push origin nome-da-sua-feature`).
+5.  **Abra um Pull Request** para que possamos revisar e discutir sua solução.
+
+Lembre-se de ter um compilador C++ (como o g++, Clang ou MinGW) instalado para testar seus códigos.
 
 ## 🙋‍♂️ Dúvidas ou Sugestões?
 
-Se tiver qualquer dúvida sobre os códigos ou sugestões para melhorar o repositório, pode me chamar!
+Se tiver qualquer dúvida, sugestão ou encontrar algum erro, abra uma **Issue** ou chame qualquer um dos membros da equipe!
 
-**Autor:** [Guilherme]
-**Contato:** [guilhermerodrigues6484@gmail.com]
+**Contato do Organizador:** [guilhermerodrigues6484@gmail.com]
