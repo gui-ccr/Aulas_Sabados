@@ -100,7 +100,7 @@ Pra não virar bagunça, a gente separou o conteúdo assim: 🗃️
 - `/funcao`: Como criar e usar funções pra deixar o código arrumadinho. 🛠️
 - `/POO`: O básico de Programação Orientada a Objetos. 🧩
 - `/leitura_codigo`: Exercícios pra treinar a leitura e interpretação de código. 👀
-- `_exercicios`: Os PDFs com os desafios pra resolver. 📑
+- `/PDFs`: Os PDFs com os desafios pra resolver. 📑
 - `/atividades`: (A pasta do ouro!) É aqui que ficam as resoluções da galera. 🏆
 
 ---
