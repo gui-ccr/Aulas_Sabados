@@ -9,6 +9,19 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
 ## 🌟 Dono do Projeto
 
 <!-- readme: gui-ccr -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/gui-ccr">
+                    <img src="https://avatars.githubusercontent.com/u/116519824?v=4" width="100;" alt="gui-ccr"/>
+                    <br />
+                    <sub><b>Guilherme Rodrigues</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: gui-ccr -end -->
 
 ## 🌟 Contribuidores
