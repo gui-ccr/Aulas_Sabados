@@ -23,13 +23,6 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
                     <sub><b>Guilherme Rodrigues</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/Copilot">
-                    <img src="https://avatars.githubusercontent.com/in/1143301?v=4" width="100;" alt="Copilot"/>
-                    <br />
-                    <sub><b>Copilot</b></sub>
-                </a>
-            </td>
 		</tr>
 	<tbody>
 </table>
