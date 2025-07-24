@@ -26,6 +26,10 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
 
 ## 🌟 Contribuidores
 <!-- readme: contributors,gui-ccr/- -start -->
+<table>
+	<tbody>
+	<tbody>
+</table>
 <!-- readme: contributors,gui-ccr/- -end -->
 
 ## 🎯 Como Funcionamos
