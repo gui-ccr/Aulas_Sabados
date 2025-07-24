@@ -5,8 +5,12 @@ title: "[Bug]: "
 labels: 'bug'
 ---
 
-### 🐞 Descreva o Bug
-### 👣 Passos para Reproduzir
-### ✅ Comportamento Esperado
-### ❌ Comportamento Atual
-### Contexto Adicional (Opcional)
+# 🔤 Nome do bug
+
+Descrição do bug
+
+## 💡 Exemplo do bug
+
+## 📁 Localização do Arquivo
+
+Sugestão: `/micro-projetos/contador-caracteres.cpp`
