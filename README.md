@@ -8,8 +8,9 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
 
 ## 🌟 Nossa Equipe
 
-<!-- CONTRIBUTORS:START -->
-<!-- CONTRIBUTORS:END -->
+
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
 
 ## 🎯 Como Funcionamos
 
