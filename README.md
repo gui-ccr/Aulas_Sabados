@@ -12,7 +12,7 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
 <!-- readme: <gui-ccr> -end -->
 
 ## 🌟 Contribuidores
-<!-- readme: collaborators -start -->
+<!-- readme: contributors -start -->
 <table>
 	<tbody>
 		<tr>
@@ -33,7 +33,7 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
 		</tr>
 	<tbody>
 </table>
-<!-- readme: collaborators,contributors,bots -end -->
+<!-- readme: contributors -end -->
 
 ## 🎯 Como Funcionamos
 
