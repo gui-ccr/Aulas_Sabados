@@ -9,7 +9,7 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
 ## 🌟 Nossa Equipe
 
 
-<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors,bots -start -->
 <table>
 	<tbody>
 		<tr>
@@ -23,7 +23,7 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
 		</tr>
 	<tbody>
 </table>
-<!-- readme: collaborators,contributors -end -->
+<!-- readme: collaborators,contributors,bots -end -->
 
 ## 🎯 Como Funcionamos
 
