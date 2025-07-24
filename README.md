@@ -6,7 +6,7 @@ Este repositório é o ponto central para nossos estudos de **Algoritmos e Estru
 
 Todos os códigos de exemplo são comentados para facilitar a compreensão, e os exercícios são o nosso principal campo de batalha para aplicar o que aprendemos.
 
-## 🌟 Nossa Equipe
+## Contribuidores
 
 <!-- CONTRIBUTORS:START -->
 <!-- CONTRIBUTORS:END -->
