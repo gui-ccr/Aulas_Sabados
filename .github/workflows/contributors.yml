@@ -1,0 +1,28 @@
+# Nome do nosso fluxo de trabalho de automação
+name: Generate Contributors
+
+# Define quando esta automação deve rodar
+on:
+  # Roda toda vez que um novo código é enviado (push) para a branch 'main'
+  push:
+    branches:
+      - main
+
+# Define as tarefas (jobs) que a automação vai executar
+jobs:
+  contrib-readme-job:
+    # O tipo de máquina que vai rodar nossa automação
+    runs-on: ubuntu-latest
+    
+    # Os passos que a tarefa irá executar
+    steps:
+      - name: Checando o código do repositório
+        uses: actions/checkout@v2
+
+      - name: Gerando e atualizando a lista de contribuidores
+        # Aqui usamos a Action pronta da comunidade
+        uses: akhilmhdh/contributors-readme-action@v2.3.4
+        env:
+          # O GITHUB_TOKEN é uma chave de segurança gerada automaticamente
+          # pelo GitHub para permitir que a automação modifique seu repositório.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
