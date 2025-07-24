@@ -8,13 +8,6 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
 
 ## 🌟 Nossa Equipe
 
-Este repositório é mantido e construído por um time de estudantes dedicados. Conheça nossos contribuidores:
-
-| Foto de Perfil | Nome (Clique para visitar) | Responsabilidade |
-|:---:|---|---|
-| <img src="https://github.com/gui-ccr.png" width="100" alt="Foto do Guilherme" style="border-radius: 50%;"> | [**Guilherme (gui-ccr)**](https://github.com/gui-ccr) | Organizador e Revisor |
-| <img src="https://github.com/Jh-henrique.png" width="100" alt="Foto do João Henrique" style="border-radius: 50%;"> | [**Jhoan Henrique (Jh-henrique)**](https://github.com/Jh-henrique) | Contribuidor |
-| <img src="https://github.com/Milena20031409.png" width="100" alt="Foto da Milena" style="border-radius: 50%;"> | [**Milena (Milena20031409)**](https://github.com/Milena20031409) | Contribuidora |
 ## 🎯 Como Funcionamos
 
 Nosso fluxo de estudos é baseado em desafios e colaboração:
