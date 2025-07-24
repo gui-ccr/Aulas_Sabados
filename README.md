@@ -8,6 +8,9 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
 
 ## 🌟 Nossa Equipe
 
+<!-- CONTRIBUTORS:START -->
+<!-- CONTRIBUTORS:END -->
+
 ## 🎯 Como Funcionamos
 
 Nosso fluxo de estudos é baseado em desafios e colaboração:
