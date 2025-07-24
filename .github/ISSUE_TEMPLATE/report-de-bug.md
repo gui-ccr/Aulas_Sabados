@@ -1,8 +1,8 @@
 ---
-name: Tracking issue
-about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
-labels: tracking issue, needs triage
+name: '🐛 Reportar um Bug'
+about: 'Encontrou um erro ou problema? Use este template.'
+title: "[Bug]: "
+labels: 'bug'
 ---
 
 ### 🐞 Descreva o Bug

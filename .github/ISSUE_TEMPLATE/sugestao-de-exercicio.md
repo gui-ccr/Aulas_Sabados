@@ -1,8 +1,8 @@
 ---
-name: Tracking issue
-about: Use this template for tracking new features.
-title: "[DATE]: [FEATURE NAME]"
-labels: tracking issue, needs triage
+name: '💡 Sugerir um novo exercício'
+about: 'Proponha um novo desafio para a comunidade resolver.'
+title: "[Exercício]: "
+labels: 'sugestão, novo exercício'
 ---
 
 ### 📝 Descrição do Problema
