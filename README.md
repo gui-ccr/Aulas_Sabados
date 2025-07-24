@@ -8,8 +8,8 @@ Todos os códigos de exemplo são comentados para facilitar a compreensão, e os
 
 ## 🌟 Dono do Projeto
 
-<!-- readme: <gui-ccr> -start -->
-<!-- readme: <gui-ccr> -end -->
+<!-- readme: gui-ccr -start -->
+<!-- readme: gui-ccr -end -->
 
 ## 🌟 Contribuidores
 <!-- readme: contributors -start -->
