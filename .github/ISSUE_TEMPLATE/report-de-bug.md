@@ -1,6 +1,6 @@
 ---
-name: "🐛 Reportar um Bug"
-description: "Encontrou um problema ou erro em um código, exercício ou na documentação?"
+name: '🐛 Reportar um Bug'
+description: 'Encontrou um problema ou erro em um código, exercício ou na documentação?'
 title: "[Bug]: "
 labels: ["bug"]
 ---

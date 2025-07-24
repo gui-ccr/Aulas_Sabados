@@ -1,6 +1,6 @@
 ---
-name: "💡 Sugestão de Novo Exercício"
-description: "Proponha um novo desafio para a comunidade resolver."
+name: '💡 Sugestão de Novo Exercício'
+description: 'Proponha um novo desafio para a comunidade resolver.'
 title: "[Exercício]: "
 labels: ["sugestão", "novo exercício"]
 ---
@@ -10,11 +10,8 @@ labels: ["sugestão", "novo exercício"]
 ### ◀️ Saídas (Outputs)
 ### 🤔 Nível de Dificuldade Sugerido
 - [ ] Básico
-- [ ] Básico+
 - [ ] Intermediário
-- [ ] Intermediário+
 - [ ] Avançado
-- [ ] Avançado+
 
 
 ### Contexto Adicional (Opcional)
